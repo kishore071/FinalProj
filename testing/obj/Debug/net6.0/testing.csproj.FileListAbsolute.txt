@@ -15,3 +15,20 @@ G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\refint\testing.dll
 G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\testing.pdb
 G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\testing.genruntimeconfig.cache
 G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\ref\testing.dll
+G:\GitRepo\FinalProj\testing\bin\Debug\net6.0\testing.exe
+G:\GitRepo\FinalProj\testing\bin\Debug\net6.0\testing.deps.json
+G:\GitRepo\FinalProj\testing\bin\Debug\net6.0\testing.runtimeconfig.json
+G:\GitRepo\FinalProj\testing\bin\Debug\net6.0\testing.dll
+G:\GitRepo\FinalProj\testing\bin\Debug\net6.0\testing.pdb
+G:\GitRepo\FinalProj\testing\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\GitRepo\FinalProj\testing\obj\Debug\net6.0\testing.csproj.AssemblyReference.cache
+G:\GitRepo\FinalProj\testing\obj\Debug\net6.0\testing.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitRepo\FinalProj\testing\obj\Debug\net6.0\testing.AssemblyInfoInputs.cache
+G:\GitRepo\FinalProj\testing\obj\Debug\net6.0\testing.AssemblyInfo.cs
+G:\GitRepo\FinalProj\testing\obj\Debug\net6.0\testing.csproj.CoreCompileInputs.cache
+G:\GitRepo\FinalProj\testing\obj\Debug\net6.0\testing.csproj.CopyComplete
+G:\GitRepo\FinalProj\testing\obj\Debug\net6.0\testing.dll
+G:\GitRepo\FinalProj\testing\obj\Debug\net6.0\refint\testing.dll
+G:\GitRepo\FinalProj\testing\obj\Debug\net6.0\testing.pdb
+G:\GitRepo\FinalProj\testing\obj\Debug\net6.0\testing.genruntimeconfig.cache
+G:\GitRepo\FinalProj\testing\obj\Debug\net6.0\ref\testing.dll
