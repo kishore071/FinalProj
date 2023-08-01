@@ -1,0 +1,17 @@
+G:\Mini Project\CONSOLE\testing\bin\Debug\net6.0\testing.exe
+G:\Mini Project\CONSOLE\testing\bin\Debug\net6.0\testing.deps.json
+G:\Mini Project\CONSOLE\testing\bin\Debug\net6.0\testing.runtimeconfig.json
+G:\Mini Project\CONSOLE\testing\bin\Debug\net6.0\testing.dll
+G:\Mini Project\CONSOLE\testing\bin\Debug\net6.0\testing.pdb
+G:\Mini Project\CONSOLE\testing\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\testing.csproj.AssemblyReference.cache
+G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\testing.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\testing.AssemblyInfoInputs.cache
+G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\testing.AssemblyInfo.cs
+G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\testing.csproj.CoreCompileInputs.cache
+G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\testing.csproj.CopyComplete
+G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\testing.dll
+G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\refint\testing.dll
+G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\testing.pdb
+G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\testing.genruntimeconfig.cache
+G:\Mini Project\CONSOLE\testing\obj\Debug\net6.0\ref\testing.dll
