@@ -1,2 +1,6 @@
 # FinalProj
  GST BILLING
+This is a Final Year Proj I have been Working on 
+=> Here i am using an api Which is for free i got from MasterGSt 
+   I am using this api to call functions like deletion and creation of e-invoice bills i would say it works go0d.....
+If u need an gst automation process do checkout this proj (For Ind)...
