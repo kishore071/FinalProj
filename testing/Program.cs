@@ -23,14 +23,14 @@ namespace MyApp
             //var client_secret = Convert.ToString(Console.ReadLine());
             //Console.WriteLine("gstin Number:");
             //String? gst = Console.ReadLine();
-            String email = "kishorekumar.bcseb@gmail.com";
+            String email = $"{ur email id}";
             String final = "";
-            String client_id = "05736c29-aef5-477c-aa72-fa3b19038505";
-            String pwd = "Malli#123";
-            String client_secret = "ab35f383-7e31-4591-806f-cb686df35084";
-            String ipaddress = "195.82.93.109";
-            String username = "mastergst";
-            String gst = "29AABCT1332L000";
+            String client_id = $"{ur client id}";
+            String pwd = $"{ur pwd}";
+            String client_secret = $"{ur clien secret id}";
+            String ipaddress =$"{ur ip address}";
+            String username = $"{ur credential username}";
+            String gst = $"{ur gst number}";
             foreach (char i in email!)
             {
                 if (i == '@')
